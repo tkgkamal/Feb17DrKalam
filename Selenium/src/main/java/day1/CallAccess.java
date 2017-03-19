@@ -5,7 +5,7 @@ import day2.AccessThisClass;
 public class CallAccess {
 
 	/**
-	 * @param args
+	 * @param args kamal
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
